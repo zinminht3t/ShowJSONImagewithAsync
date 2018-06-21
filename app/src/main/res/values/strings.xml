@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">JSONImage</string>
+    <string name="name">Name</string>
+    <string name="eid">Emp id</string>
+    <string name="salary">Salary</string>
+    <string name="address">Address</string>
+</resources>
